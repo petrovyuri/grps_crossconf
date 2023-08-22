@@ -1,0 +1,11 @@
+name: server_grpc
+description: A sample command-line application.
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  grpc: ^3.2.3
+  protobuf: ^3.1.0
+
